@@ -183,4 +183,8 @@
 
     <!-- Display has physical cutout -->
     <bool name="config_physicalDisplayCutout">true</bool>
+    
+    <!-- Whether we have a multi coloured battery LED or not -->
+    <bool name="config_multiColorBatteryLed">false</bool>
+    
 </resources>
