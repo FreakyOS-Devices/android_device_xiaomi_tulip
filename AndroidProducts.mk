@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/freaky_twolip.mk
+    $(LOCAL_DIR)/freaky_tulip.mk
 
 COMMON_LUNCH_CHOICES := \
-    freaky_twolip-user \
-    freaky_twolip-userdebug \
-    freaky_twolip-eng
+    freaky_tulip-user \
+    freaky_tulip-userdebug \
+    freaky_tulip-eng
