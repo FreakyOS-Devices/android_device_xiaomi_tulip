@@ -34,6 +34,10 @@ TARGET_BOOT_ANIMATION_RES := 1080
 # OFFICIAL
 CUSTOM_BUILD_TYPE := OFFICIAL
 
+# Override build user prop
+PRODUCT_PROPERTY_OVERRIDES += \
+    ro.build.user=Niteshkumar
+
 PRODUCT_BRAND := Xiaomi
 PRODUCT_DEVICE := tulip
 PRODUCT_MANUFACTURER := Xiaomi
