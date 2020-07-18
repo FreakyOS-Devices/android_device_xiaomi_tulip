@@ -34,6 +34,9 @@ TARGET_BOOT_ANIMATION_RES := 1080
 # OFFICIAL
 CUSTOM_BUILD_TYPE := OFFICIAL
 
+# Release tools
+TARGET_RELEASETOOLS_EXTENSIONS := $(LOCAL_PATH)
+
 # Override build user prop
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.build.user=Niteshkumar
