@@ -1,26 +1,26 @@
 [
   {
     "repository": "Xtended-Devices/android_device_xiaomi_sdm660-common-tulip",
-    "target_path": "device/xiaomi/sdm660-common"
+    "target_path": "device/xiaomi/sdm660-common",
     "branch": "xq-new",
     "remote": "github"
   },
   {
     "repository": "nshorty/vendor_MiuiCamera ",
-    "target_path": "vendor/MiuiCamera"
-    "branch": "10"
+    "target_path": "vendor/MiuiCamera",
+    "branch": "10",
     "remote": "github"
-    },
-      {
+  },
+  {
     "repository": "Xtended-Devices/android_kernel_xiaomi_tulip",
-    "target_path": "kernel/xiaomi/tulip"
+    "target_path": "kernel/xiaomi/tulip",
     "branch": "xq-new",
     "remote": "github"
   },
   {
     "repository": "Xtended-Devices/ proprietary_vendor_xiaomi-tulip ",
-    "target_path": "kernel/xiaomi"
+    "target_path": "vendor/xiaomi",
     "branch": "xq-new",
     "remote": "github"
-  },
+  }
 ]
